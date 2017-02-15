@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "async": "^2.1.2",
+    "cheerio": "^0.22.0",
+    "eventproxy": "^0.3.5",
+    "express": "^4.14.0",
+    "http": "^0.0.0",
+    "mkdirp": "^0.5.1",
+    "url": "^0.11.0"
+  },
+  "name": "lesson",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "lockontan",
+  "license": "ISC"
+}
